@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ananya Anand
 
-<!--
-**Ananya-Anand24/Ananya-Anand24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! Here's what you need to know about me:
 
-Here are some ideas to get you started:
+🎓 Master's in Advanced Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Web developer specializing in:
+   - Angular
+   - React
+   - .NET
+
+🚀 Passionate about pushing boundaries and exploring new tech
+
+💡 Love crafting seamless user experiences
+
